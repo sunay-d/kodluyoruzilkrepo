@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![proje resmi](kodluyoruzilkrepo/gitodev.jpg)
+![proje resmi](./gitodev.jpg)
 
 ## Installation 
 

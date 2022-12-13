@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![proje resmi](kodluyoruzilkrepo/gitodev.jpg)
+
 ## Installation 
 
 Öncelikle projeyi klonlayın.
